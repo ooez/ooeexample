@@ -14,7 +14,10 @@ public class Person {
         }
 
     }
-
+/**
+ * Creates a new person
+ * param name full person
+ */
     public  void  sayName() {
         System.out.println("My name is " + name);
     }
